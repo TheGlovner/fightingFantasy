@@ -1,0 +1,12 @@
+{
+  "ScenarioPath": "start.txt",
+  "ScenarioText": "",
+  "ImagePath": "firetopMountain.jpg",
+  "ScenarioImage": "",
+  "Button1": "West",
+  "Button2": "East",
+  "ExitOptions": {
+    "West": "scenario278.txt",
+    "East": "scenario71.txt"
+  }
+}
